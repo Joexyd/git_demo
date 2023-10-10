@@ -22,5 +22,6 @@ int main()
     printf("somthing is added in hot-fix branch.");
     printf("somthing is added in hot-fix branch.");
     printf("somthing is added in hot-fix branch.");
+    printf("somthing is modified in hot-fix branch.");
     return 0;
 }
